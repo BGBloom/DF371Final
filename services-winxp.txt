@@ -1,1 +1,5 @@
-
+host            port   proto  name          state  info
+----            ----   -----  ----          -----  ----
+192.168.56.109  135    tcp    msrpc         open   Microsoft Windows RPC                                                                           
+192.168.56.109  139    tcp    netbios-ssn   open   Microsoft Windows netbios-ssn                                                                   
+192.168.56.109  445    tcp    microsoft-ds  open   Windows XP microsoft-ds 
