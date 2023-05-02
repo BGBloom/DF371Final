@@ -1,1 +1,6 @@
-
+Timestamp                Host            Name                                                 References                                           
+---------                ----            ----                                                 ----------    
+2023-04-21 21:33:04 UTC  192.168.56.102  Samba "username map script" Command Execution        CVE-2007-2447,OSVDB-34700,BID-23972,URL-http://labs  
+                                                                                              .idefense.com/intelligence/vulnerabilities/display.  
+                                                                                              php?id=534,URL-http://samba.org/samba/security/CVE-  
+                                                                                              2007-2447.html 
