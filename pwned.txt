@@ -1,1 +1,5 @@
+   #  Name                                                   Disclosure Date  Rank       Check  Description
+   -  ----                                                   ---------------  ----       -----  -----------
+   0  exploit/windows/smb/ms08_067_netapi                    2008-10-28       great      Yes    MS08-067 Microsoft Server Service Relative Path Stack Corruption
 
+   8  exploit/multi/samba/usermap_script                     2007-05-14       excellent  No     Samba "username map script" Command Execution
